@@ -1,0 +1,21 @@
+.flag{
+    display: flex;
+    height: 400px;
+    width: 600px;
+    border: 3px solid black;
+}
+.bl{
+    height: 400px;
+    width: 200px;
+    background-color: darkblue;
+}
+.ye{
+    height: 400px;
+    width: 200px;
+    background-color: yellow;
+}
+.re{
+    height: 400px;
+    width: 200px;
+    background-color: red;
+}
